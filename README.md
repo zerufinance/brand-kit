@@ -1,1 +1,1 @@
-# brand-kit for Zeru Finance
+# Brand-kit for Zeru Finance
